@@ -1,7 +1,7 @@
 # DONE: A To-Do List Web Application
 
 ## Video Demo
-[Watch the demo here](https://streamable.com/71qga6)
+[Watch the demo here](https://youtu.be/mKHHppVA8b4)
 
 - Video recording date: 10/2/2024
 - My project title: ToDo List
